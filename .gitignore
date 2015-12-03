@@ -26,3 +26,9 @@
 *.exe
 *.out
 *.app
+
+.kdev4/
+Makefile
+*.kdev4
+*.pro
+moc_*.cpp
