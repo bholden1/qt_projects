@@ -1,0 +1,241 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"map",
+				"mapsize_x"
+			],
+			[
+				"ma",
+				"mapsize_x"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/ben/projects/qt_projects",
+		"/home/ben/projects/qt_projects/plusminus",
+		"/home/ben/projects/qt_projects/schedule"
+	],
+	"file_history":
+	[
+		"/home/ben/projects/qt_projects/.gitignore",
+		"/home/ben/projects/Interview-Scheduler/CMakeLists.txt",
+		"/home/ben/Documents/C_CPP_ws/MarkovLocalization/MonteCarloLocalization.cpp",
+		"/home/ben/Downloads/node-v5.1.0-linux-x64/README.md",
+		"/home/ben/Documents/aerialSLAM/.gitignore",
+		"/home/ben/projects/particle2Dpp/map.cpp",
+		"/home/ben/projects/particle2Dpp/data/log/robotdata1.log",
+		"/home/ben/projects/particle2Dpp/data/map/wean.dat",
+		"/home/ben/Google Drive/ParticleFilter/MarkovLocalization/MonteCarloLocalization.cpp",
+		"/etc/default/avahi-daemon",
+		"/home/ben/Google Drive/ParticleFilter/particle_filter/data/log/robotdata1.log",
+		"/home/ben/Google Drive/ParticleFilter/particle_filter/src/log.py",
+		"/home/ben/Google Drive/ParticleFilter/particle_filter/src/constants.py",
+		"/home/ben/Google Drive/ParticleFilter/particle_filter/data/map/wean.dat",
+		"/home/ben/Google Drive/ParticleFilter/particle_filter/src/map_py.py",
+		"/home/ben/Google Drive/ParticleFilter/particle_filter/src/main.py",
+		"/home/ben/Google Drive/ParticleFilter/particle_filter/bensrc/__init__.py",
+		"/home/ben/Google Drive/ParticleFilter/particle2D%2B%2B/logBook.cpp",
+		"/home/ben/Google Drive/ParticleFilter/particle2D%2B%2B/main.cpp",
+		"/home/ben/Google Drive/ParticleFilter/particle_filter/bensrc/constants.py",
+		"/home/ben/Google Drive/ParticleFilter/particle_filter/bensrc/tests.py",
+		"/home/ben/Google Drive/ParticleFilter/particle_filter/bensrc/bee-map.c",
+		"/home/ben/Google Drive/ParticleFilter/particle_filter/bensrc/map_c.pyx",
+		"/home/ben/Google Drive/ParticleFilter/particle_filter/bensrc/profile.prof",
+		"/home/ben/Documents/C_CPP_ws/particle_filter/src/tests.py",
+		"/home/ben/Documents/C_CPP_ws/particle_filter/src/particle.py",
+		"/home/ben/Documents/aerialSLAM/CMakeLists.txt",
+		"/home/ben/Documents/MarkovLocalization-master/README.md",
+		"/home/ben/Documents/Statistical-methods-for-robotics-master/README.md",
+		"/media/ben/Controller/Documents/2 Graduate School/Fall 2015/831/bholden1/HW4/particleFiltering/data/log/robotdata1.log",
+		"/media/ben/Controller/Documents/2 Graduate School/Fall 2015/831/bholden1/HW4/data/instruct.txt",
+		"/home/ben/Documents/aerialSLAM/featuredpa.h",
+		"/home/ben/Documents/aerialSLAM/main.cpp",
+		"/home/ben/Documents/aerialSLAM/featuredpa.cpp",
+		"/home/ben/Downloads/cmu_16662_p2/geometry_utils/unroll.m",
+		"/home/ben/Downloads/cmu_16662_p2/geometry_utils/ZYXToR.m",
+		"/home/ben/Downloads/cmu_16662_p2/read_data.m",
+		"/home/ben/Downloads/cmu_16662_p2/geometry_utils/shortest_angular_distance.m",
+		"/home/ben/Downloads/training/stats/oakland_part3_an_training.stats",
+		"/media/ben/Controller/Documents/MATLAB/printOS.m",
+		"/media/ben/Controller/Documents/2 Graduate School/Fall 2015/831/bholden1/HW3/oakland_part3_am_rf.node_features",
+		"/home/ben/.bashrc",
+		"/media/ben/Controller/Documents/Ideas for programming assignments",
+		"/home/ben/Downloads/Matlab2015a_Lin/License.dat",
+		"/home/ben/ftb/ftb.sh",
+		"/home/ben/ftb/minecraft.sh",
+		"/home/ben/.drjava",
+		"/home/ben/.kodi/addons/skin.aeon.nox.5/21x9/Home.xml",
+		"/home/ben/.kodi/addons/skin.aeon.nox.5/addon.xml",
+		"/home/ben/Downloads/screenrc",
+		"/home/ben/Downloads/bashrc",
+		"/usr/share/applications/ftb.desktop",
+		"/home/ben/Downloads/Matlab2015a_Lin/File Installation Key Matlab 2015a.txt",
+		"/usr/share/applications/minecraft.desktop"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"_low_variance_sampler",
+			"update_observation",
+			"_low_variance_sampler",
+			"weight",
+			"fprint",
+			"_cal_weight_beam_range_model",
+			"_cal_observation_weight",
+			"_threshold",
+			"FTB_Launcher"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "qt_projects.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
