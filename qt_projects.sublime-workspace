@@ -4,17 +4,25 @@
 		"selected_items":
 		[
 			[
-				"map",
-				"mapsize_x"
+				"n",
+				"np_array"
 			],
 			[
-				"ma",
-				"mapsize_x"
+				"np",
+				"np_2"
 			]
 		]
 	},
 	"buffers":
 	[
+		{
+			"file": "/etc/hosts",
+			"settings":
+			{
+				"buffer_size": 280,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -23,12 +31,16 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 0.0,
-		"last_filter": "",
+		"height": 222.0,
+		"last_filter": ":w",
 		"selected_items":
 		[
+			[
+				":w",
+				":w - Save"
+			]
 		],
-		"width": 0.0
+		"width": 392.0
 	},
 	"console":
 	{
@@ -54,70 +66,95 @@
 	],
 	"file_history":
 	[
-		"/home/ben/projects/qt_projects/.gitignore",
-		"/home/ben/projects/Interview-Scheduler/CMakeLists.txt",
-		"/home/ben/Documents/C_CPP_ws/MarkovLocalization/MonteCarloLocalization.cpp",
-		"/home/ben/Downloads/node-v5.1.0-linux-x64/README.md",
-		"/home/ben/Documents/aerialSLAM/.gitignore",
-		"/home/ben/projects/particle2Dpp/map.cpp",
-		"/home/ben/projects/particle2Dpp/data/log/robotdata1.log",
-		"/home/ben/projects/particle2Dpp/data/map/wean.dat",
-		"/home/ben/Google Drive/ParticleFilter/MarkovLocalization/MonteCarloLocalization.cpp",
-		"/etc/default/avahi-daemon",
-		"/home/ben/Google Drive/ParticleFilter/particle_filter/data/log/robotdata1.log",
-		"/home/ben/Google Drive/ParticleFilter/particle_filter/src/log.py",
-		"/home/ben/Google Drive/ParticleFilter/particle_filter/src/constants.py",
-		"/home/ben/Google Drive/ParticleFilter/particle_filter/data/map/wean.dat",
+		"/home/ben/projects/qt_projects/qt_projects.sublime-project",
+		"/home/ben/hector-localization-and-slam/hector_localization/hector_pose_estimation/package.xml",
+		"/home/ben/hector-localization-and-slam/hector_localization/hector_pose_estimation/src/pose_estimation_node.cpp",
+		"/home/ben/utacc_ws/src/CMakeLists.txt",
+		"/home/ben/hector-localization-and-slam/hector_localization/hector_pose_estimation_core/Makefile",
+		"/home/ben/hector-localization-and-slam/hector_localization/odometry_to_tf/src/odom_to_tf.cpp",
+		"/home/ben/utacc_ws/src/hector_localization/message_to_tf/src/message_to_tf.cpp",
+		"/home/ben/utacc_ws/src/uavros/uav_launch/launch/uav_launch.launch",
+		"/home/ben/utacc_ws/src/uavros/uav_state_publisher/include/uav_state_publisher/uav_state_publisher.h",
+		"/home/ben/utacc_ws/src/uavros/uav_launch/config/uav_state_publisher.yaml",
+		"/home/ben/utacc_ws/src/uavros/uav_launch/config/hector_slam.yaml",
+		"/home/ben/utacc_ws/src/uavros/uav_launch/launch/uav_launch_gazebo.launch",
+		"/home/ben/utacc_ws/src/uavros/uav_launch/config/UAV.yaml",
+		"/home/ben/utacc_ws/src/hector_localization/hector_pose_estimation/CHANGELOG.rst",
+		"/home/ben/utacc_ws/src/hector_localization/rtt_hector_pose_estimation/include/hector_pose_estimation/rtt/taskcontext.h",
+		"/home/ben/utacc_ws/src/hector_localization/rtt_hector_pose_estimation/src/parameters.h",
+		"/home/ben/utacc_ws/src/hector_localization/rtt_hector_pose_estimation/src/services.cpp",
+		"/home/ben/utacc_ws/src/hector_localization/rtt_hector_pose_estimation/src/parameters.cpp",
+		"/home/ben/utacc_ws/src/hector_localization/hector_pose_estimation_core/include/hector_pose_estimation/pose_estimation.h",
+		"/home/ben/utacc_ws/src/hector_localization/rtt_hector_pose_estimation/CMakeLists.txt",
+		"/home/ben/utacc_ws/src/hector_localization/hector_pose_estimation_core/include/hector_pose_estimation/system.h",
+		"/home/ben/utacc_ws/src/hector_localization/hector_pose_estimation_core/CHANGELOG.rst",
+		"/home/ben/utacc_ws/src/hector_localization/hector_pose_estimation_core/include/hector_pose_estimation/measurement.h",
+		"/home/ben/utacc_ws/src/hector_localization/hector_pose_estimation_core/include/hector_pose_estimation/parameters.h",
+		"/home/ben/utacc_ws/src/hector_localization/hector_pose_estimation_core/include/hector_pose_estimation/global_reference.h",
+		"/home/ben/utacc_ws/src/hector_localization/hector_pose_estimation_core/include/hector_pose_estimation/ros/parameters.h",
+		"/home/ben/utacc_ws/src/hector_localization/hector_pose_estimation_core/include/hector_pose_estimation/model.h",
+		"/home/ben/utacc_ws/src/hector_localization/hector_pose_estimation_core/src/parameters.cpp",
+		"/home/ben/utacc_ws/src/hector_localization/hector_pose_estimation_core/src/measurements/baro.cpp",
+		"/home/ben/utacc_ws/src/hector_localization/hector_pose_estimation_core/src/global_reference.cpp",
+		"/home/ben/utacc_ws/src/hector_localization/hector_pose_estimation_core/src/measurements/heading.cpp",
+		"/home/ben/utacc_ws/src/hector_localization/hector_pose_estimation_core/src/measurements/magnetic.cpp",
+		"/home/ben/utacc_ws/src/hector_localization/hector_pose_estimation_core/src/measurements/height.cpp",
+		"/home/ben/utacc_ws/src/hector_localization/hector_pose_estimation_core/src/measurements/zerorate.cpp",
+		"/home/ben/utacc_ws/src/hector_localization/hector_pose_estimation_core/src/measurements/gravity.cpp",
+		"/home/ben/utacc_ws/src/hector_localization/hector_pose_estimation_core/src/system/ground_vehicle_model.cpp",
+		"/home/ben/utacc_ws/src/hector_localization/hector_pose_estimation_core/src/measurements/gps.cpp",
+		"/home/ben/utacc_ws/src/hector_localization/hector_pose_estimation_core/src/measurement.cpp",
+		"/home/ben/utacc_ws/src/hector_localization/hector_pose_estimation_core/CMakeLists.txt",
+		"/home/ben/utacc_ws/src/hector_localization/hector_pose_estimation_core/src/measurements/rate.cpp",
+		"/home/ben/utacc_ws/src/hector_localization/message_to_tf/CHANGELOG.rst",
+		"/home/ben/utacc_ws/src/hector_localization/hector_pose_estimation_core/src/system/generic_quaternion_system_model.cpp",
+		"/home/ben/utacc_ws/src/hector_localization/hector_pose_estimation_core/src/system/imu_model.cpp",
+		"/home/ben/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/ben/Google Drive/ParticleFilter/particle_filter/src/particle.py",
+		"/home/ben/Google Drive/ParticleFilter/particle_filter/bensrc/map_py.py",
+		"/home/ben/Google Drive/ParticleFilter/particle_filter/src/models.py",
 		"/home/ben/Google Drive/ParticleFilter/particle_filter/src/map_py.py",
+		"/home/ben/Google Drive/ParticleFilter/particle_filter/src/tests.py",
 		"/home/ben/Google Drive/ParticleFilter/particle_filter/src/main.py",
-		"/home/ben/Google Drive/ParticleFilter/particle_filter/bensrc/__init__.py",
-		"/home/ben/Google Drive/ParticleFilter/particle2D%2B%2B/logBook.cpp",
-		"/home/ben/Google Drive/ParticleFilter/particle2D%2B%2B/main.cpp",
-		"/home/ben/Google Drive/ParticleFilter/particle_filter/bensrc/constants.py",
-		"/home/ben/Google Drive/ParticleFilter/particle_filter/bensrc/tests.py",
-		"/home/ben/Google Drive/ParticleFilter/particle_filter/bensrc/bee-map.c",
-		"/home/ben/Google Drive/ParticleFilter/particle_filter/bensrc/map_c.pyx",
-		"/home/ben/Google Drive/ParticleFilter/particle_filter/bensrc/profile.prof",
-		"/home/ben/Documents/C_CPP_ws/particle_filter/src/tests.py",
-		"/home/ben/Documents/C_CPP_ws/particle_filter/src/particle.py",
-		"/home/ben/Documents/aerialSLAM/CMakeLists.txt",
-		"/home/ben/Documents/MarkovLocalization-master/README.md",
-		"/home/ben/Documents/Statistical-methods-for-robotics-master/README.md",
-		"/media/ben/Controller/Documents/2 Graduate School/Fall 2015/831/bholden1/HW4/particleFiltering/data/log/robotdata1.log",
-		"/media/ben/Controller/Documents/2 Graduate School/Fall 2015/831/bholden1/HW4/data/instruct.txt",
-		"/home/ben/Documents/aerialSLAM/featuredpa.h",
-		"/home/ben/Documents/aerialSLAM/main.cpp",
+		"/home/ben/Google Drive/ParticleFilter/particle_filter/src/log.py",
+		"/home/ben/Google Drive/ParticleFilter/particle_filter/src/draw.py",
+		"/home/ben/projects/particle2Dpp/plot_map.py",
+		"/home/ben/Google Drive/ParticleFilter/particle_filter/src/constants.py",
+		"/home/ben/Downloads/gtsam_toolbox/README-gtsam-toolbox.txt",
 		"/home/ben/Documents/aerialSLAM/featuredpa.cpp",
-		"/home/ben/Downloads/cmu_16662_p2/geometry_utils/unroll.m",
-		"/home/ben/Downloads/cmu_16662_p2/geometry_utils/ZYXToR.m",
-		"/home/ben/Downloads/cmu_16662_p2/read_data.m",
-		"/home/ben/Downloads/cmu_16662_p2/geometry_utils/shortest_angular_distance.m",
-		"/home/ben/Downloads/training/stats/oakland_part3_an_training.stats",
-		"/media/ben/Controller/Documents/MATLAB/printOS.m",
-		"/media/ben/Controller/Documents/2 Graduate School/Fall 2015/831/bholden1/HW3/oakland_part3_am_rf.node_features",
+		"/home/ben/Documents/C_CPP_ws/particle2Dpp/data/map/wean.dat",
+		"/home/ben/Documents/aerialSLAM/featuredpa.h",
+		"/home/ben/Google Drive/ParticleFilter/particle2D%2B%2B/data/map/wean.dat",
+		"/home/ben/Documents/aerialSLAM/main.cpp",
+		"/home/ben/Downloads/map.yaml",
+		"/home/ben/Documents/C_CPP_ws/particle2Dpp/.gitignore",
+		"/home/ben/Downloads/logBook.cpp",
+		"/home/ben/Downloads/documents-export-2015-11-17/logBook.cpp",
+		"/home/ben/Google Drive/ParticleFilter/particle2D%2B%2B/logBook.cpp",
+		"/home/ben/Google Drive/ParticleFilter/particle2D%2B%2B/particle2D%2B%2B.kdev4",
+		"/home/ben/Documents/aerialSLAM/CMakeLists.txt",
+		"/home/ben/utacc_ws/src/hector_slam/hector_slam_launch/launch/tutorial.launch",
+		"/home/ben/catkin_ws/src/utacc/src/.rosinstall",
+		"/home/ben/Documents/aerialSLAM/Matlab_feature_detection_and_matching/feature_image_and_frame_match.m.orig",
 		"/home/ben/.bashrc",
-		"/media/ben/Controller/Documents/Ideas for programming assignments",
-		"/home/ben/Downloads/Matlab2015a_Lin/License.dat",
-		"/home/ben/ftb/ftb.sh",
-		"/home/ben/ftb/minecraft.sh",
-		"/home/ben/.drjava",
-		"/home/ben/.kodi/addons/skin.aeon.nox.5/21x9/Home.xml",
-		"/home/ben/.kodi/addons/skin.aeon.nox.5/addon.xml",
-		"/home/ben/Downloads/screenrc",
-		"/home/ben/Downloads/bashrc",
-		"/usr/share/applications/ftb.desktop",
-		"/home/ben/Downloads/Matlab2015a_Lin/File Installation Key Matlab 2015a.txt",
-		"/usr/share/applications/minecraft.desktop"
+		"/home/ben/Documents/aerialSLAM/datasets/.gitignore",
+		"/home/ben/utacc_ws/src/hexaros/HexaLaunch/config/UAV.yaml",
+		"/home/ben/utacc_ws/src/hexaros/HexaLaunch/udev_rules/99-hexarotor.rules",
+		"/home/ben/.chrome-remote-desktop-session",
+		"/home/ben/.screenrc",
+		"/home/ben/.ssh/id_rsa.pub"
 	],
 	"find":
 	{
-		"height": 35.0
+		"height": 25.0
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 93.0,
 		"where_history":
 		[
+			"<open_folders>",
+			"/"
 		]
 	},
 	"find_state":
@@ -125,15 +162,27 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"_low_variance_sampler",
-			"update_observation",
-			"_low_variance_sampler",
-			"weight",
-			"fprint",
-			"_cal_weight_beam_range_model",
-			"_cal_observation_weight",
-			"_threshold",
-			"FTB_Launcher"
+			"poseupdate",
+			"pose_update",
+			"pub_map_odom_transform",
+			"odom_frame",
+			"body_frame",
+			"slam_map",
+			"rpy_with",
+			"rpy_pub",
+			"rpy_topic",
+			"imu_topic",
+			"slam_out",
+			"slam_topic",
+			"slam",
+			"bod",
+			"body_map",
+			"body_frame",
+			"/map",
+			"nav_frame",
+			"world_frame",
+			"body_map_aligned_topic_",
+			"param"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -151,8 +200,37 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/etc/hosts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 280,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								95,
+								95
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -162,7 +240,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 33.0
 	},
 	"layout":
 	{
@@ -204,17 +282,45 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"posees",
+				"hector_localization/hector_pose_estimation/src/pose_estimation_node.cpp"
+			],
+			[
+				"pose",
+				"hector_localization/hector_pose_estimation_core/src/pose_estimation.cpp"
+			],
+			[
+				"hectorpose",
+				"hector_localization/hector_pose_estimation_core/src/pose_estimation.cpp"
+			],
+			[
+				"hectorsl",
+				"uavros/uav_launch/config/hector_slam.yaml"
+			],
+			[
+				"uavla",
+				"uavros/uav_launch/launch/uav_launch_gazebo.launch"
+			],
+			[
+				"state",
+				"uavros/uav_state_publisher/include/uav_state_publisher/uav_state_publisher.h"
+			]
 		],
 		"width": 0.0
 	},
 	"select_project":
 	{
-		"height": 0.0,
+		"height": 500.0,
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"",
+				"~/projects/sublime_projects/schedule.sublime-workspace"
+			]
 		],
-		"width": 0.0
+		"width": 380.0
 	},
 	"select_symbol":
 	{
@@ -233,7 +339,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 150.0,
+	"side_bar_width": 356.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
