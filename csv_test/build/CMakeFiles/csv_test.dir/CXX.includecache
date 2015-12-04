@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ben/projects/qt_projects/csv_test/main.cpp
+fstream
+-
+iostream
+-
+sstream
+-
+string
+-
+vector
+-
+
