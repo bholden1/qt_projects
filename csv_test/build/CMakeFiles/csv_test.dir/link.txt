@@ -1,1 +1,1 @@
-/usr/bin/c++    -std=c++11    CMakeFiles/csv_test.dir/main.cpp.o  -o csv_test -rdynamic 
+/usr/bin/c++   -std=c++11 -std=c++11    CMakeFiles/csv_test.dir/main.cpp.o  -o csv_test -rdynamic 
